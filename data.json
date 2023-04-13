@@ -1,0 +1,102 @@
+{
+    "Contador": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data da postagem da vaga": [
+        "2023-03-24",
+        "2023-03-28",
+        "2023-03-23",
+        "2023-03-22",
+        "2023-02-11"
+    ],
+    "Hor\u00e1rio do scraping": [
+        "2023-03-29 12:14:46.922202",
+        "2023-03-29 12:14:56.900225",
+        "2023-03-29 12:15:24.315029",
+        "2023-03-29 12:15:51.510552",
+        "2023-03-29 12:16:13.862331"
+    ],
+    "Local sede da empresa": [
+        "Joinville, Santa Catarina",
+        "Itaj\u00ed, Santa Catarina",
+        "S\u00e3o Paulo, SP",
+        "Sao Paulo, SP",
+        "Empresa privada"
+    ],
+    "Modelo de contrata\u00e7\u00e3o": null,
+    "Nome da empresa contratante": [
+        "Grupo Guia ",
+        "Evolusi Recrutamento RH ",
+        "AdilisTradeMkt ",
+        "Artplan ",
+        "Eletromidia "
+    ],
+    "Nome da vaga": [
+        "Recepcionista",
+        "Secret\u00e1ria",
+        "REPOSITOR - RIO DE JANEIRO E REGI\u00c3O METROPOLITANA",
+        "Redator J\u00fanior",
+        "Almoxarife (Recife)"
+    ],
+    "N\u00edvel de experi\u00eancia": [
+        "N\u00e3o aplic\u00e1vel",
+        "N\u00e3o aplic\u00e1vel",
+        "Assistente",
+        "N\u00e3o aplic\u00e1vel",
+        "Assistente"
+    ],
+    "N\u00famero de candidaturas para vaga": [
+        " 34 candidaturas",
+        "Seja um dos 25 primeiros a se candidatar",
+        "Mais de 200 candidaturas",
+        " 76 candidaturas",
+        " 72 candidaturas"
+    ],
+    "N\u00famero de funcion\u00e1rios da empresa": [
+        "11-50 funcion\u00e1rios",
+        "2-10 funcion\u00e1rios",
+        "+ de 10.001 funcion\u00e1rios",
+        "501-1.000 funcion\u00e1rios",
+        "201-500 funcion\u00e1rios"
+    ],
+    "N\u00famero de seguidores da empresa": [
+        "14420",
+        "1966",
+        "5693",
+        "67207",
+        ""
+    ],
+    "Tipo de contrata\u00e7\u00e3o": [
+        "Tempo integral",
+        "Tempo integral",
+        "Tempo integral",
+        "Tempo integral",
+        "Tempo integral"
+    ],
+    "URL da candidatura": [
+        "https://ats.compleo.com.br/oportunidades/grupoguiarh/148613?source=LinkedIn",
+        "https://app.skeel.com.br/publico/vaga/7999",
+        "https://jobs.recrutei.com.br/adilis/vacancy/38608-repositor-rio-de-janeiro-e-regiao-metropolitana?utm_source=linkedin-jobboard",
+        "https://www.empregare.com/pt-br/vaga-redator-junior_45783?source=linkedin",
+        "https://eletromidia.gupy.io/job/eyJzb3VyY2UiOiJndXB5X3B1YmxpY19wYWdlIiwiam9iSWQiOjM5NzIxODN9?jobBoardSource=gupy_public_page"
+    ],
+    "URL da empresa contratante": [
+        "https://br.linkedin.com/company/grupoguiarh?trk=public_jobs_topcard-org-name",
+        "https://br.linkedin.com/company/evolusi-recrutamento-rh?trk=public_jobs_topcard-org-name",
+        "https://br.linkedin.com/company/adilistrademkt?trk=public_jobs_topcard-org-name",
+        "https://br.linkedin.com/company/artplan?trk=public_jobs_topcard-org-name",
+        "https://br.linkedin.com/company/eletromidia?trk=public_jobs_topcard-org-name"
+    ],
+    "URL da vaga no linkedin": [
+        "https://br.linkedin.com/jobs/view/recepcionista-at-grupo-guia-3537496518?refId=lrapN6PT6ng148t8tpo%2FeQ%3D%3D&trackingId=FbwQRgvnY83vjDraRj3Whg%3D%3D&trk=public_jobs_topcard-title",
+        "https://br.linkedin.com/jobs/view/secret%C3%A1ria-at-evolusi-recrutamento-rh-3540197404?refId=lrapN6PT6ng148t8tpo%2FeQ%3D%3D&trackingId=bUQfH7MFbRVtkl3KiNstzg%3D%3D&trk=public_jobs_topcard-title",
+        "https://br.linkedin.com/jobs/view/repositor-rio-de-janeiro-e-regi%C3%A3o-metropolitana-at-adilistrademkt-3539700722?refId=lrapN6PT6ng148t8tpo%2FeQ%3D%3D&trackingId=XssUe06FzxQZsFSEavVFQg%3D%3D&trk=public_jobs_topcard-title",
+        "https://br.linkedin.com/jobs/view/redator-j%C3%BAnior-at-artplan-3539222170?refId=lrapN6PT6ng148t8tpo%2FeQ%3D%3D&trackingId=ix6chjPe3Ilorqha9%2FW7vQ%3D%3D&trk=public_jobs_topcard-title",
+        "https://br.linkedin.com/jobs/view/almoxarife-recife-at-eletromidia-3518307362?refId=lrapN6PT6ng148t8tpo%2FeQ%3D%3D&trackingId=q38NR586Zd2vOoytU6aJKQ%3D%3D&trk=public_jobs_topcard-title"
+    ]
+}
